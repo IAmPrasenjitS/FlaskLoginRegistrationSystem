@@ -1,0 +1,11 @@
+body {
+	background-color: lightblue;
+}
+body {
+	background-image: url(../images/bg.jpg);
+}
+.login-box {
+	color: #fff;
+	border: 3px solid;
+	padding: 20px 30px;
+}
